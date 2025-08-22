@@ -13,11 +13,13 @@ It highlights skills in:
 ---
 
 ## 🏘 Project Structure
+```bash
 ├── polygon.py          # Defines the Polygon class
 ├── polygons.py         # Defines Polygons and PolygonIterator
 ├── test_sequence.py    # Unit tests for Polygon and Polygons
 ├── README.md           # Project documentation
 └── requirements.txt    # Dependencies
+```
 
 ---
 
